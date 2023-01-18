@@ -1,3 +1,4 @@
+Padrões de  versionamento
 https://semver.org/lang/pt-BR/
 
 2.1.4
